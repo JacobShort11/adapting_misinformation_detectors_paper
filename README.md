@@ -2,6 +2,7 @@
 ### Research Paper for my Master's in Artificial Intelligence & Machine Learning
 
 
+### Code Structure
 - **data_preparation.ipynb:** data cleaning and exploration.
 
 - **bert_politifact.ipynb:** training, validation, testing, and resampling BERT models on human & LLMFake PolitiFact datasets.
