@@ -2,8 +2,9 @@
 ### Research Paper for my Master's in Artificial Intelligence & Machine Learning
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JacobShort11/master/img.png" alt="img">
+  <img src="./img.png" alt="img">
 </p>
+
 
 ### Code Structure
 - **data_preparation.ipynb:** data cleaning and exploration.
