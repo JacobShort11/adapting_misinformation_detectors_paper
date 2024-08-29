@@ -2,7 +2,7 @@
 ### Research Paper for my Master's in Artificial Intelligence & Machine Learning
 
 <p align="center">
-  <img src="./img.png" alt="img">
+  <img src="./img" alt="img">
 </p>
 
 
