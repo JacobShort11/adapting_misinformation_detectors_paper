@@ -25,3 +25,5 @@ Find the paper here: [Adapting Misinformation Detectors to Counter LLM-Generated
 - **misclassification_analysis.ipynb:** analysis into why models are misclassifying certain texts.
 
 - **statistical_tests.ipynb:** Wilcoxon rank sign tests on performance metrics.
+
+Note: you must download the relevant datasets yourself.
