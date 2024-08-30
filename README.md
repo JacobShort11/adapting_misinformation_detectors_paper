@@ -3,7 +3,7 @@ Find the paper here: [Adapting Misinformation Detectors to Counter LLM-Generated
 
 
 <p align="center">
-  <img src="./imae.png" alt="img">
+  <img src="./image.png" alt="img">
 </p>
 
 
