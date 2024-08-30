@@ -1,5 +1,5 @@
 ### Research Paper for my Master's in Artificial Intelligence & Machine Learning
-Find the paper here: [# Adapting Misinformation Detectors to Counter LLM-Generated Fake News](./adapting_misinformation_detectors_paper.pdf)
+Find the paper here: [Adapting Misinformation Detectors to Counter LLM-Generated Fake News](./adapting_misinformation_detectors_paper.pdf)
 
 
 <p align="center">
